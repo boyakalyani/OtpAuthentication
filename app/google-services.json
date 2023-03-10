@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25373448691",
+    "project_id": "otpauthentication-229a6",
+    "storage_bucket": "otpauthentication-229a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25373448691:android:2324bbfb42bc41a8079a86",
+        "android_client_info": {
+          "package_name": "com.example.otpauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25373448691-k0bsgirhk44v4m545lvahcceopp8hfbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp9H8xxU7lsryRA7KuQFVFMN-oT7izjTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25373448691-k0bsgirhk44v4m545lvahcceopp8hfbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
